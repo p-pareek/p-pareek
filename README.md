@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p-pareek
 - 👀 I’m interested in Data analysis and Machine learning 
 - 🌱 I’m currently learning Data science with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP, Machine learning and EDA 
 - 📫 ppareek18295@gmail.com
 
 <!---
